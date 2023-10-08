@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Reeco/static/css/main.31d17c42.css",
+    "main.js": "/github.io/Reeco/static/js/main.01bbe38e.js",
+    "static/media/AvocadoHass.jpg": "/github.io/Reeco/static/media/AvocadoHass.b65e885eec2bd4bdfdf5.jpg",
+    "static/media/logo.44b75468.svg": "/github.io/Reeco/static/media/logo.44b75468.5cebd09ea3e02b8524ee837f531a6630.svg",
+    "index.html": "/github.io/Reeco/index.html",
+    "main.31d17c42.css.map": "/github.io/Reeco/static/css/main.31d17c42.css.map",
+    "main.01bbe38e.js.map": "/github.io/Reeco/static/js/main.01bbe38e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d17c42.css",
+    "static/js/main.01bbe38e.js"
+  ]
+}
