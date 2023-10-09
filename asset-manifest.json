@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reeco/static/css/main.31d17c42.css",
-    "main.js": "/Reeco/static/js/main.b2eb9c46.js",
+    "main.css": "/Reeco/static/css/main.8933c33c.css",
+    "main.js": "/Reeco/static/js/main.cbe21b56.js",
     "static/media/AvocadoHass.jpg": "/Reeco/static/media/AvocadoHass.b65e885eec2bd4bdfdf5.jpg",
     "static/media/logo.44b75468.svg": "/Reeco/static/media/logo.44b75468.5cebd09ea3e02b8524ee837f531a6630.svg",
     "index.html": "/Reeco/index.html",
-    "main.31d17c42.css.map": "/Reeco/static/css/main.31d17c42.css.map",
-    "main.b2eb9c46.js.map": "/Reeco/static/js/main.b2eb9c46.js.map"
+    "main.8933c33c.css.map": "/Reeco/static/css/main.8933c33c.css.map",
+    "main.cbe21b56.js.map": "/Reeco/static/js/main.cbe21b56.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d17c42.css",
-    "static/js/main.b2eb9c46.js"
+    "static/css/main.8933c33c.css",
+    "static/js/main.cbe21b56.js"
   ]
 }
